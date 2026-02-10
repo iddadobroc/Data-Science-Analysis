@@ -1,5 +1,7 @@
 # Suicide Rate Analysis (2000–2021) – Data Science Project
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/XXXXXXXXXXXXXXXX)
+
 ## Project Overview
 
 This project aims to analyze **country-level suicide rates** and identify the **socio-economic, demographic, health, cultural, and environmental factors** that are most strongly associated with higher or lower suicide rates across the world.
@@ -146,3 +148,6 @@ Planned next steps include:
 
 Davide Corbo  
 (Data Science project – ongoing)
+
+
+

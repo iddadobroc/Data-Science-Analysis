@@ -1,6 +1,6 @@
 # Suicide Rate Analysis (2000–2021) – Data Science Project
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/XXXXXXXXXXXXXXXX)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IsGDQmoz0K_IL4Ug9t09sROp3aKaCFTP?usp=sharing)
 
 ## Project Overview
 
